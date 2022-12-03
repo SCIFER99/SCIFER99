@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCIFER99 (<-Username)(Real Name -> Tim)
+- 👋 Hi, I’m @SCIFER99 (<-Username)(Real Name -> Tim Tarver)
 - 👀 I’m interested in Software Engineering and Cryptography
 - 🌱 I’m currently learning Advanced concepts in Python Programming
 - 💞️ I’m looking to collaborate on various Python projects including cryptography.
