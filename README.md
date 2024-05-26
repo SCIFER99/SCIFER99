@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SCIFER99 
 - 👀 I’m interested in Software Engineering, Cryptography & Machine Learning
 - 🌱 I’m currently learning Advanced concepts in Python Programming
-- 💞️ I’m looking to collaborate on various Python projects including cryptography.
+- 💞️ I’m looking to collaborate on various software development projects including cryptography.
 - 📫 You can reach me here to start with. 
 
 <!---
